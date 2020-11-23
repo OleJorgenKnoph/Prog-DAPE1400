@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+
+<GridPane alignment="center" hgap="10" prefHeight="205.0" prefWidth="315.0" vgap="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Button mnemonicParsing="false" onAction="#SjekkKnapp" prefHeight="27.0" prefWidth="155.0" text="Sjekk radioknapp" GridPane.columnIndex="1" GridPane.rowIndex="10" />
+      <RadioButton mnemonicParsing="false" text="Knapp1" GridPane.columnIndex="1" GridPane.rowIndex="6">
+         <toggleGroup>
+            <ToggleGroup fx:id="grupp1" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton mnemonicParsing="false" text="Knapp2" toggleGroup="$grupp1" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <Label fx:id="lblUt" GridPane.columnIndex="1" GridPane.rowIndex="11" />
+   </children>
+</GridPane>
