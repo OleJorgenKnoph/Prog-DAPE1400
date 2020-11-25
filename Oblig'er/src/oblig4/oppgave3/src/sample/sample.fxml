@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Label fx:id="lblUtskrift" layoutX="333.0" layoutY="53.0" prefHeight="294.0" prefWidth="266.0" text="Label" />
+      <Label layoutX="51.0" layoutY="36.0" prefHeight="44.0" prefWidth="223.0" text="Personregister">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtNavn" layoutX="51.0" layoutY="153.0" prefHeight="27.0" prefWidth="104.0" promptText="Navn…" />
+      <TextField fx:id="txtPersonnr" layoutX="183.0" layoutY="153.0" prefHeight="27.0" prefWidth="140.0" promptText="Personnummer…" />
+      <Button layoutX="51.0" layoutY="224.0" mnemonicParsing="false" onAction="#registrerPerson" prefHeight="27.0" prefWidth="89.0" text="Registrer" />
+      <Button layoutX="183.0" layoutY="224.0" mnemonicParsing="false" onAction="#slettPerson" prefHeight="27.0" prefWidth="89.0" text="Slett" />
+   </children>
+</AnchorPane>

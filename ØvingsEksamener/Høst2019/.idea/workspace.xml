@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58177cbc-b760-4c02-bf80-2e7ebdb92b1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1knDlYpuetItBvqzAHaegbqe6TW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BokReg">
+    <configuration name="BokReg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oppgave3.BokReg" />
+      <module name="Høst2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oppgave3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lottogenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oppgave2.Lottogenerator" />
+      <module name="Høst2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oppgave2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oppgave1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oppgave1.Oppgave1" />
+      <module name="Høst2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oppgave1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BokReg" />
+        <item itemvalue="Application.Lottogenerator" />
+        <item itemvalue="Application.Oppgave1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58177cbc-b760-4c02-bf80-2e7ebdb92b1d" name="Default Changelist" comment="" />
+      <created>1606327614263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606327614263</updated>
+      <workItem from="1606327615778" duration="3320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1148" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1606330456924">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1148" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330456924" />
+    <state width="1876" height="375" key="GridCell.Tab.0.bottom" timestamp="1606330942578">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330851916" />
+    <state width="1876" height="375" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942578" />
+    <state width="1876" height="375" key="GridCell.Tab.0.center" timestamp="1606330942576">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330851911" />
+    <state width="1876" height="375" key="GridCell.Tab.0.center/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942576" />
+    <state width="1876" height="375" key="GridCell.Tab.0.left" timestamp="1606330942575">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330851909" />
+    <state width="1876" height="375" key="GridCell.Tab.0.left/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942575" />
+    <state width="1876" height="375" key="GridCell.Tab.0.right" timestamp="1606330942577">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330851914" />
+    <state width="1876" height="375" key="GridCell.Tab.0.right/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942577" />
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom" timestamp="1606330942582">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606329585573" />
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942582" />
+    <state width="1876" height="375" key="GridCell.Tab.1.center" timestamp="1606330942580">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606329585570" />
+    <state width="1876" height="375" key="GridCell.Tab.1.center/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942580" />
+    <state width="1876" height="375" key="GridCell.Tab.1.left" timestamp="1606330942579">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606329585566" />
+    <state width="1876" height="375" key="GridCell.Tab.1.left/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942579" />
+    <state width="1876" height="375" key="GridCell.Tab.1.right" timestamp="1606330942581">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606329585572" />
+    <state width="1876" height="375" key="GridCell.Tab.1.right/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942581" />
+    <state x="-1325" y="161" key="new project wizard" timestamp="1606330942265">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1325" y="161" key="new project wizard/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606330942265" />
+  </component>
+</project>
