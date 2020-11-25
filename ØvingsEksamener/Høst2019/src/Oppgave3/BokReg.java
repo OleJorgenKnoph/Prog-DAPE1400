@@ -28,7 +28,7 @@ class Papirbok extends Bok {
         super(tittel, forfatter, pris);
         this.iSBN = iSBN;
     }
-
+    @Override
     public String toString(){
         String ut = super.toString();
                 ut += "iSBN: " + iSBN;
@@ -44,7 +44,7 @@ class Lydbok extends Bok {
         super(tittel, forfatter, pris);
         this.lengdeIminutter = lengdeIminutter;
     }
-
+    @Override
     public String toString(){
         String ut = super.toString();
                 ut += "Lengde i minutter: " + lengdeIminutter;
