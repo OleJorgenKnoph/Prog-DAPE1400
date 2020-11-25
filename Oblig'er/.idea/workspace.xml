@@ -24,7 +24,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.VareMain">
+  <component name="RunManager" selected="Application.tilfeldigArray">
+    <configuration name="TallSpill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oblig2.oppgave2TallSpill.TallSpill" />
+      <module name="Oblig'er" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oblig2.oppgave2TallSpill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VareMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oblig1.oppgave2.VareMain" />
       <module name="Oblig'er" />
@@ -51,6 +64,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oppgave1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oblig2.oppgave1.oppgave1" />
+      <module name="Oblig'er" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oblig2.oppgave1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tilfeldigArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oblig3.tilfeldigArray" />
+      <module name="Oblig'er" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oblig3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -64,6 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tilfeldigArray" />
+        <item itemvalue="Application.TallSpill" />
+        <item itemvalue="Application.oppgave1" />
         <item itemvalue="Application.VareMain" />
         <item itemvalue="Application.oppg1" />
       </list>
@@ -77,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606246343469</updated>
-      <workItem from="1606246345121" duration="1709000" />
+      <workItem from="1606246345121" duration="9103000" />
     </task>
     <servers />
   </component>
@@ -85,25 +127,75 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1148" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1606247162879">
+    <state x="-1148" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1606259319747">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1148" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606247162879" />
-    <state width="1876" height="304" key="GridCell.Tab.0.bottom" timestamp="1606247664343">
+    <state x="-1148" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606259319747" />
+    <state width="1876" height="375" key="GridCell.Tab.0.bottom" timestamp="1606262351955">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606247664343" />
-    <state width="1876" height="304" key="GridCell.Tab.0.center" timestamp="1606247664340">
+    <state width="1876" height="375" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262351955" />
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.23.1280.752/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256041986" />
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256030083" />
+    <state width="1876" height="375" key="GridCell.Tab.0.center" timestamp="1606262351952">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606247664340" />
-    <state width="1876" height="304" key="GridCell.Tab.0.left" timestamp="1606247664335">
+    <state width="1876" height="375" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262351952" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.23.1280.752/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256041982" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256030075" />
+    <state width="1876" height="375" key="GridCell.Tab.0.left" timestamp="1606262351950">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606247664335" />
-    <state width="1876" height="304" key="GridCell.Tab.0.right" timestamp="1606247664341">
+    <state width="1876" height="375" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262351950" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.23.1280.752/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256041981" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256030073" />
+    <state width="1876" height="375" key="GridCell.Tab.0.right" timestamp="1606262351953">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606247664341" />
+    <state width="1876" height="375" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262351953" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.23.1280.752/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256041984" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606256030076" />
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom" timestamp="1606262352222">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262352222" />
+    <state width="1876" height="375" key="GridCell.Tab.1.center" timestamp="1606262352217">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262352217" />
+    <state width="1876" height="375" key="GridCell.Tab.1.left" timestamp="1606262352216">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262352216" />
+    <state width="1876" height="375" key="GridCell.Tab.1.right" timestamp="1606262352220">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606262352220" />
+    <state x="-1297" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1606257794022">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606257794022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oblig3/tilfeldigArray.java</url>
+          <line>38</line>
+          <properties class="oblig3.array" method="fyllArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oblig3/tilfeldigArray.java</url>
+          <line>11</line>
+          <properties class="oblig3.array" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
