@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5e6f116-7b9a-4a37-abf4-0bacee8cb758" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Høst2019/src/Oppgave3/BokReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Høst2019/src/Oppgave3/BokReg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Høst2019/src/Oppgave4/Oppgave4.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -120,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606318124587</updated>
       <workItem from="1606318126025" duration="2517000" />
-      <workItem from="1606346510049" duration="522000" />
+      <workItem from="1606346510049" duration="1524000" />
     </task>
     <servers />
   </component>
